@@ -1,0 +1,24 @@
+{
+  "name": "chordakatpolice",
+  "version": "0.0.1",
+  "description": "A simple party game made using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therdas/ChorDakatPolice.git"
+  },
+  "keywords": [
+    "game",
+    "party",
+    "firebase"
+  ],
+  "author": "therdas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therdas/ChorDakatPolice/issues"
+  },
+  "homepage": "https://github.com/therdas/ChorDakatPolice#readme"
+}
